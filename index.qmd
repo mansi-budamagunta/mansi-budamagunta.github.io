@@ -1,7 +1,20 @@
 ---
 title: "Mansi Budamagunta"
+image: profile.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mansi-budamagunta/
+    - icon: github
+      text: GitHub
+      href: https://github.com/mansi-budamagunta
+    - text: Email
+      url: "mailto:b.mansi12@gmail.com"
+    - text: CV
+      url: "Mansi_Budamagunta_CV.pdf"
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Data scientist with 6+ years of experience applying data-driven techniques to complex real-world problems — from working on LLM evaluation and AI tool development to research in urban data analytics, transportation networks, and computational neuroscience. Currently pursuing an MS in Applied Data Science. Collaborative experience across global teams in both industry and academic settings.
